@@ -5,7 +5,7 @@
 }
 
 header {
-    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/burger.jpg");;
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/burger.jpg");;
     height: 700px;
     background-size: cover;
     background-position: center;
@@ -137,7 +137,7 @@ nav {
 }
 
 .food-1 {
-    background-image: url("../images/food1.jpg");
+    background-image: url("images/food1.jpg");
     background-size: cover;
     margin-top:  -30px;
     -webkit-box-shadow: -3px 3px 23px 0px rgba(0,0,0,0.5);
@@ -146,7 +146,7 @@ nav {
 }
 
 .food-2 {
-    background-image: url("../images/food2.jpg");
+    background-image: url("images/food2.jpg");
     background-size: cover;
     -webkit-box-shadow: -3px 3px 23px 0px rgba(0,0,0,0.5);
     -moz-box-shadow: -3px 3px 23px 0px rgba(0,0,0,0.5);
@@ -170,7 +170,7 @@ nav {
 /************** Specialities Section **************/
 
 .specialities-section {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)), url("../images/lunch.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)), url("images/lunch.jpg");
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -220,7 +220,7 @@ nav {
 }
 
 .specialities-image1 {
-    background-image: url(../images/breakfast.jpg);
+    background-image: url('images/breakfast.jpg');
     background-size: cover;
 }
 
@@ -231,12 +231,12 @@ nav {
 }
 
 .specialities-image2 {
-    background-image: url(../images/lunch.jpg);
+    background-image: url(images/lunch.jpg);
     background-size: cover;
 }
 
 .specialities-image3 {
-    background-image: url(../images/dinner.jpg);
+    background-image: url(images/dinner.jpg);
     background-size: cover;
 }
 
@@ -389,12 +389,12 @@ nav {
 }
 
 .col-large-2 {
-    background-image: url('../images/icecream.jpg');
+    background-image: url('images/icecream.jpg');
     background-size: cover;
 }
 
 .col-large-4 {
-    background-image: url('../images/Lunch\ \(2\).jpg');
+    background-image: url('images/Lunch\ \(2\).jpg');
     background-size: cover;
 }
 
@@ -421,13 +421,13 @@ nav {
 }
 
 .col-small-2 {
-    background-image: url('../images/burger.jpg');
+    background-image: url('images/burger.jpg');
     background-size: cover;
     background-position: right;
 }
 
 .col-small-3 {
-    background-image: url('../images/salmon.jpg');
+    background-image: url('images/salmon.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -460,7 +460,7 @@ nav {
 /************** Our Menu Section **************/
 
 .our-menu-section {
-    background:linear-gradient(rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.692)), url("../images/breakfast.jpg");
+    background:linear-gradient(rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.692)), url("images/breakfast.jpg");
     background-size: cover;
     text-align: center;
     padding: 120px 50px;
@@ -592,7 +592,7 @@ nav {
 footer {
     padding: 60px 0px;
     padding-bottom: 0;
-    background:linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.678)), url("../images/burger.jpg");
+    background:linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.678)), url("images/burger.jpg");
     background-size: cover;
     background-position: center;
     color: #f0f0f0;   
